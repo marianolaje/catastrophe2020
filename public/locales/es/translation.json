@@ -1,0 +1,33 @@
+{
+  "corona":{
+    "botonPaises":"Mostrar información de todos los paises",
+    "botonContinentes" : "Mostrar información por continentes",
+    "referencias": "Información extraida de ",
+    "fechaDatos": "Datos actualizados al "
+  },
+  "coronaDetalles":{
+    "referencias": "C = Confirmados  /  M = Muertos  /  R = Recuperados ",
+    "pais": "pais",
+    "confirmados": "C",
+    "muertos": "M",
+    "recuperados": "R"
+  },
+  "infoContinentes":{
+    "Europa": "Europa",
+    "TotalConfirmados": "Total Confirmados: ",
+    "TotalMuertos": "Total fallecidos: ",
+    "TotalRecuperados": "Total recuperados: ",
+    "Muertos": "Fallecidos ",
+    "Recuperados": "Recuperados ",
+    "AmNorte": "America del Norte",
+    "AmCentral": "America Central",
+    "AmSur": "America del Sur",
+    "Asia": "Asia",
+    "Africa": "Africa",
+    "Oceania": "Oceanía"
+  },
+  "volver": {
+    "volver": "volver"
+  }
+}
+  

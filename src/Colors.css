@@ -1,0 +1,82 @@
+.positive{
+  background-color: #6FFFE9;
+  color: #3A506B;
+  border: 2px solid #1C2541;
+}
+.negative{
+  background-color: #3A506B;
+  color: #6FFFE9;
+  border: 2px solid #1C2541;
+}
+.colorBotonVolver{
+  color: #5BC0BE;
+  background-color: #1C2541;
+  border: 2px solid #3A506B;
+}
+.colorInfoNegativoTituloH1{
+  color: #5BC0BE;
+}
+.colorInfoNegativoTextoH4{
+  color: #6FFFE9;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px #3A506B;
+}
+.infoGeneralBox{
+  color: #5BC0BE;
+  background: #1C2541;
+  border: 2px solid #3A506B;
+}
+.colorFooterButton{
+  background-color: #1C2541;
+  color: #5BC0BE;
+}
+.colorFooterA{
+  color: #5BC0BE;
+}
+
+span{
+  color: white;
+}
+body{
+  background-color: #0B132B;
+  color: #5BC0BE;
+}
+
+
+
+
+
+/*TABLA CORONAVIRUS INFO*/
+.table100.ver3 .ps__rail-y::before {
+  background-color: #4e4e4e;
+}
+
+.table100.ver3 .ps__rail-y .ps__thumb-y::before {
+  background-color: #00ad5f;
+}
+.table100.ver3{
+  box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -o-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -ms-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+}
+.table100.ver3 td {
+  color: #6FFFE9;
+  background-color: #3A506B;
+}
+.table100.ver3 th {
+  color: #5BC0BE;
+  background-color: #1C2541;
+}
+.table100.ver3 {
+  background-color: #0B132B;
+}
+.table100 .ps__rail-y .ps__thumb-y::before {
+  background-color: #0B132B;
+}
+.table100 .ps__rail-y::before {
+  background-color: #0B132B;
+}
+.referencias{
+  color: #aaa;
+}

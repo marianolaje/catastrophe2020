@@ -1,0 +1,29 @@
+.infoGeneralBox{
+  font-family: Century, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  margin: 0px;
+  margin-top: 20px;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 35px 0px 35px 0px;
+  -moz-border-radius: 35px 0px 35px 0px;
+  -webkit-border-radius: 35px 0px 35px 0px;
+  width: 92vw;
+}
+.totalDe{
+  text-align: center;
+}
+.numeros{
+  text-align: center;
+}
+.tituloInfo{
+  text-align: center;
+}
+.margenBot{
+  margin-bottom: 100px;
+}
+.margenTop{
+  margin-top:20px;
+}

@@ -1,0 +1,32 @@
+{
+  "corona":{
+    "botonPaises":"Show info from all countries",
+    "botonContinentes" : "Show info from all continents",
+    "referencias": "Information taken from ",
+    "fechaDatos": "Actualized data to "
+  },
+  "coronaDetalles":{
+    "referencias": "C = Confirmed  /  K = Killed  /  R = Recovered ",
+    "pais": "Country",
+    "confirmados": "C",
+    "muertos": "K",
+    "recuperados": "R"
+  },
+  "infoContinentes":{
+    "Europa": "Europe",
+    "TotalConfirmados": "Total Confirmed: ",
+    "TotalMuertos": "Total killed: ",
+    "TotalRecuperados": "Total recovered: ",
+    "Muertos": "Kills ",
+    "Recuperados": "Recoveries ",
+    "AmNorte": "North America",
+    "AmCentral": "Central America",
+    "AmSur": "South America",
+    "Asia": "Asia",
+    "Africa": "Africa",
+    "Oceania": "Oceania"
+  },
+  "volver": {
+    "volver": "back"
+  }
+}
